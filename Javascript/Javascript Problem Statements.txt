@@ -22,7 +22,7 @@ output:
 
 4.Draw The Pattern
 Output(On console):
-		A
+	    A
 	   ABC
 	  ABCDE
 	 ABCDEFG
